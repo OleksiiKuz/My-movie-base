@@ -1,6 +1,6 @@
 # My-movie-base project
 
-## Stack: React, React Router, React Hooks, local Storage, Context API, Fetch API
+## Stack: React, React Router, React Hooks, local Storage, Context API, Fetch API, Movie Database API
 ## Demo:  [http://boring-heyrovsky-1710a4.netlify.app/](http://boring-heyrovsky-1710a4.netlify.app/)
 
 
