@@ -1,6 +1,6 @@
 # My-movie-base project
 
-Stack: React, React Router, React Hooks, Context API, Fetch API
+## Stack: React, React Router, React Hooks, Context API, Fetch API
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
